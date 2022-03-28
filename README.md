@@ -5,18 +5,18 @@
  🎖️ I am developing android mobile apps for many years. He is developing skills every day with the help of professional practice in order to make the development process faster and more qualitative.
 
 ## ⚡Have proficient experience in :
-* 📱 Android SDK
-*  Dagger
-*  SQLight –Firebase
-*  Push Notifications
-*  Google Maps
-*  LiveData 
-*  ViewModel
-*  Git (Github / Gitlab / Bitbucket)
-*  RESTFUl  API
-*  Architecture Patterns: MVC, MVP, MVVM
-*  Room Database
-*  Design Patterns
+- 📱 Android SDK
+-  Dagger
+-  SQLight –Firebase.
+-  Push Notifications.
+-  Google Maps.
+-  LiveData 
+-  ViewModel
+-  Git (Github / Gitlab / Bitbucket)
+-  RESTFUl  API
+-  Architecture Patterns: MVC, MVP, MVVM
+-  Room Database
+-  Design Patterns
 
 
 
