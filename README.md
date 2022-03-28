@@ -1,9 +1,18 @@
-### Hi there 👋  My name is Bahaa Wadi
+### Hi there 👋, Bahaa Wadi
+#### Specializes in Mobile App Development.  Improving The World Through Technology.
+![Specializes in Mobile App Development.  Improving The World Through Technology.](https://twitter.com/wadi_bahaa/header_photo)
+
+ 🎖️ I am developing android mobile apps for many years. He is developing skills every day with the help of professional practice in order to make the development process faster and more qualitative.
 
 
- 🎖️ I am developing android mobile apps for many years .He is developing skills every day with the help of professional practice in order to make the development process faster and qualitative.You can check out my linkedIn at  www.linkedin.com/in/bahaa-wadi 
- 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BhaaWadi)](https://github.com/anuraghazra/github-readme-stats)
+Skills: Java | Kotlin | Sql |
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/BhaaWadi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bahaa-wadi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/wadi_bahaa)  
+
+
+
 
 
 
