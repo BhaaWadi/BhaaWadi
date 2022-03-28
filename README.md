@@ -6,17 +6,17 @@
 
 ## ⚡Have proficient experience in :
 * 📱 Android SDK
-* Dagger
-* SQLight –Firebase
-* Push Notifications
-* Google Maps
-* LiveData 
-* ViewModel
-* Git (Github / Gitlab / Bitbucket)
-* JSON, RESTFUl  API
-* Architecture Patterns: MVC, MVP, MVVM
-* Room Database
-*Design Patterns
+*  Dagger
+*  SQLight –Firebase
+*  Push Notifications
+*  Google Maps
+*  LiveData 
+*  ViewModel
+*  Git (Github / Gitlab / Bitbucket)
+*  JSON, RESTFUl  API
+*  Architecture Patterns: MVC, MVP, MVVM
+*  Room Database
+*  Design Patterns
 
 
 
