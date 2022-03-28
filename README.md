@@ -9,14 +9,15 @@
 -  Dagger
 -  SQLight –Firebase.
 -  Push Notifications.
--  Google Maps.
--  LiveData 
--  ViewModel
 -  Git (Github / Gitlab / Bitbucket)
 -  RESTFUl  API
 -  Architecture Patterns: MVC, MVP, MVVM
 -  Room Database
 -  Design Patterns
+-  Google Maps.
+-  LiveData 
+-  ViewModel
+-  RxJava
 
 
 
