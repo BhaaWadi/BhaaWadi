@@ -6,6 +6,7 @@
 
 ## ⚡Have proficient experience in :
 - 📱 Android SDK
+- Java/Kotlin
 -  Dagger
 -  SQLight –Firebase.
 -  Push Notifications.
