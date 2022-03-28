@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋  My name is Bahaa Wadi
+
+
+ 🎖️ I am developing android mobile apps for many years .He is developing skills every day with the help of professional practice in order to make the development process faster and qualitative.You can check out my linkedIn at  www.linkedin.com/in/bahaa-wadi 
+ 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BhaaWadi)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
 
 <!--
 **BhaaWadi/BhaaWadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
