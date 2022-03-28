@@ -5,6 +5,7 @@
  🎖️ I am developing android mobile apps for many years. He is developing skills every day with the help of professional practice in order to make the development process faster and more qualitative.
 
 ## ⚡Have proficient experience in :
+
 * Android SDK
 * Kotlin/Java
 * Rx Java
