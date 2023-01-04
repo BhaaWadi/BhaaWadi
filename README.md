@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Bahaa Wadi
 ###  Improving The World Through Technology.
-![Specializes in Mobile App Development  Improving The World Through Technology.](https://github.com/BhaaWadi/BhaaWadi/blob/main/Banner.jpg)
+![Specializes in Mobile App Development  Improving The World Through Technology.](https://github.com/BhaaWadi/BhaaWadi/blob/main/Banner.png)
 
  🎖️ I am developing android mobile apps for many years. He is developing skills every day with the help of professional practice in order to make the development process faster and more qualitative.
 
