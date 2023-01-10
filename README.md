@@ -2,7 +2,7 @@
 ###  Improving The World Through Technology.
 ![Specializes in Mobile App Development  Improving The World Through Technology.](https://github.com/BhaaWadi/BhaaWadi/blob/main/Banner.png)
 
- 🎖️ I am developing android mobile apps for many years. He is developing skills every day with the help of professional practice in order to make the development process faster and more qualitative.
+ 🎖️ I have been developing android mobile apps for many years. I am developing my skills every day with the help of professional practice to make the development process faster and more qualitative.
 
 ## ⚡Have proficient experience in :
 - 📱 Android SDK
